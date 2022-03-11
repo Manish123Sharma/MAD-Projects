@@ -1,3 +1,5 @@
+// ignore_for_file: non_constant_identifier_names, avoid_types_as_parameter_names, deprecated_member_use, prefer_const_constructors, sized_box_for_whitespace, prefer_const_literals_to_create_immutables, unused_import, use_key_in_widget_constructors, must_be_immutable, camel_case_types, prefer_adjacent_string_concatenation
+
 import 'package:book_my_show/models/movie.dart';
 import 'package:book_my_show/repo/movie_operations.dart';
 import 'package:book_my_show/widgets/appbar.dart';

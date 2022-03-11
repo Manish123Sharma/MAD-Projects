@@ -1,3 +1,5 @@
+// ignore_for_file: camel_case_types, unused_element, prefer_final_fields, non_constant_identifier_names
+
 import 'package:book_my_show/models/movie.dart';
 
 class movie_operations {

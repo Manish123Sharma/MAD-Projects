@@ -1,3 +1,5 @@
+// ignore_for_file: non_constant_identifier_names, must_be_immutable, use_key_in_widget_constructors, camel_case_types, prefer_initializing_formals
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
